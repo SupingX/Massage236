@@ -1,0 +1,85 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_bg_main"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="60dp" >
+    </View>
+
+    <com.mycj.massage.view.AlphaTextView
+        android:id="@+id/tv_ems_1"
+                android:clickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/ic_ems1"
+        android:gravity="center_horizontal"
+        android:textStyle="bold"
+        android:text="@string/ems_1" >
+    </com.mycj.massage.view.AlphaTextView>
+
+    <com.mycj.massage.view.AlphaTextView
+            android:id="@+id/tv_ems_2"
+                android:clickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/ic_ems2"
+        android:gravity="center_horizontal"
+           android:textStyle="bold"
+        android:text="@string/ems_2" >
+    </com.mycj.massage.view.AlphaTextView>
+
+    <com.mycj.massage.view.AlphaTextView
+            android:id="@+id/tv_ems_3"
+                android:clickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/ic_ems3"
+        android:gravity="center_horizontal"
+           android:textStyle="bold"
+        android:text="@string/ems_3">
+    </com.mycj.massage.view.AlphaTextView>
+
+    <com.mycj.massage.view.AlphaTextView
+            android:id="@+id/tv_ems_4"
+                android:clickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/ic_ems4"
+        android:gravity="center_horizontal"
+           android:textStyle="bold"
+        android:text="@string/ems_4">
+    </com.mycj.massage.view.AlphaTextView>
+
+    <com.mycj.massage.view.AlphaTextView
+            android:id="@+id/tv_ems_5"
+        android:clickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/ic_ems5"
+        android:gravity="center_horizontal"
+             android:textStyle="bold"
+        android:text="@string/ems_5" >
+    </com.mycj.massage.view.AlphaTextView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="30dp" >
+    </View>
+
+</LinearLayout>

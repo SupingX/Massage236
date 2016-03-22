@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Breast</string>
+    <string name="ems_1">VIB</string>
+    <string name="ems_2">VIB/EMS</string>
+    <string name="ems_3">EMS1</string>
+    <string name="ems_4">EMS2</string>
+    <string name="ems_5">EMS3</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+     <string name="exit_app">退出App？</string>
+     <string name="unkown">未知</string>
+         <string name="check_for_clear_history">是否清空历史记录？</string>
+         <string name="clear">清空</string>
+            <string name="device_a_disconnected">设备A未连接</string>
+    <string name="no_device_connected">没有设备连接</string>
+    <string name="device_b_disconnected">设备B未连接</string>
+    <string name="refresh">刷新</string>
+    <string name="back">返回</string>
+    <string name="device_added">设备已添加</string>
+    <string name="set_a">设置蓝牙A</string>
+    <string name="set_b">点击设置蓝牙B</string>
+    <string name="check_delete_a">是否删除蓝牙 A？</string>
+    <string name="delete">删除</string>
+    <string name="no_setting_for_a">没有设置蓝牙 A</string>
+    <string name="check_delete_b">是否删除蓝牙 B？</string>
+    <string name="no_setting_for_b">没有设置蓝牙B</string>
+      <string name="history">历史记录</string>
+    <string name="time">时间</string>
+    <string name="model">模式</string>
+    <string name="power">力度</string>
+    <string name="massage_model">按摩模式</string>
+     <string name="zhineng_massager">智能按摩器</string>
+
+</resources>

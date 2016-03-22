@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Breast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_spalish">SpalishActivity</string>
+    <string name="title_activity_massage">MassageActivity</string>
+    <string name="title_activity_device">DeviceActivity</string>
+    <string name="ems_1">VIB</string>
+    <string name="ems_2">VIB/EMS</string>
+    <string name="ems_3">EMS1</string>
+    <string name="ems_4">EMS2</string>
+    <string name="ems_5">EMS3</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="exit_app">Exit App ?</string>
+    <string name="unkown">Unknown</string>
+    <string name="check_for_clear_history">Clear historical record?</string>
+    <string name="clear">Clear</string>
+    <string name="device_a_disconnected">Massager A is Disconnected.</string>
+    <string name="no_device_connected">No Massager is connectted.</string>
+    <string name="device_b_disconnected">Massager B is Disconnected.</string>
+    <string name="refresh">Refresh</string>
+    <string name="back">Back</string>
+    <string name="device_added">Massager added</string>
+    <string name="set_a">Setting Massager A</string>
+    <string name="set_b">Setting Massager B</string>
+    <string name="check_delete_a">Delete Massage A ?</string>
+    <string name="delete">Delete</string>
+    <string name="no_setting_for_a">No Setting</string>
+    <string name="check_delete_b">Delete Massage B ?</string>
+    <string name="no_setting_for_b">No Setting</string>
+    <string name="history">History</string>
+    <string name="time">Time</string>
+    <string name="model">Model</string>
+    <string name="power">Power</string>
+    <string name="massage_model">Massager Model</string>
+    <string name="zhineng_massager">Intelligent Massager</string>
+
+</resources>
